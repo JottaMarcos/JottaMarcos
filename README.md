@@ -90,12 +90,9 @@ Dashboard de performance comercial e financeira com análise de vendas por perí
 
 <div align="center">
 
-![João Marcos GitHub Stats](https://github-readme-stats.vercel.app/api?username=JottaMarcos&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JottaMarcos&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+<img src="https://streak-stats.demolab.com?user=JottaMarcos&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
 ---
 
 ## 🤝 Vamos conversar?
