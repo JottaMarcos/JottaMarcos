@@ -79,11 +79,16 @@ Projeto end-to-end para otimizar faturamento e reduzir evasão de alunos em acad
 
 ---
 
-### 🚗 [Análise de Vendas — Concessionária](https://github.com/JottaMarcos/Analise-vendas-concession-ria)
-> **Power BI**
+---
 
-Dashboard de performance comercial e financeira com análise de vendas por período, vendedor e categoria de veículo.
+### 🛒 [Sistema Jotta — BI e Engenharia de Dados E-commerce](https://github.com/JottaMarcos/projeto-ecommerce-python)
+> **Python · PostgreSQL · Supabase · Power BI**
 
+Arquitetura completa de dados para e-commerce: modelagem relacional, scripts de carga massiva e dashboards executivos no Power BI.
+
+- Pipeline end-to-end do banco ao dashboard
+- R$ 53,25 milhões em faturamento processado
+- Star Schema com cálculo automático de margem e impostos
 ---
 
 ## 📈 GitHub Stats
