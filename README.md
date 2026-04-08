@@ -77,7 +77,18 @@ Arquitetura completa de dados para e-commerce: modelagem relacional, scripts de 
 - Pipeline end-to-end do banco ao dashboard
 - R$ 53,25 milhões em faturamento processado
 - Star Schema com cálculo automático de margem e impostos
+
 ---
+
+### ⛽ [GásRio — Analytics de Distribuidora de Gás](https://github.com/JottaMarcos/gasrio-analytics)
+> **Python · PostgreSQL · SQL · HTML · Dashboard Interativo**
+
+Banco de dados relacional completo com 17 tabelas e 39.000+ registros realistas. Pipeline end-to-end: modelagem SQL → geração de dados em Python → 13 queries analíticas → dashboard interativo no navegador.
+
+- Bangu e Madureira com taxa de entrega crítica identificada (66–69%)
+- Inadimplência acima de 25% em Zona Norte/Oeste mapeada
+- 700 botijões não devolvidos (~R$ 73.500 imobilizados) detectados
+- [🔗 Ver Dashboard ao Vivo](https://jottamarcos.github.io/gasrio-analytics/)
 
 ## 📈 GitHub Stats
 
