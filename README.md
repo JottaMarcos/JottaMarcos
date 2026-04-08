@@ -90,7 +90,7 @@ Dashboard de performance comercial e financeira com análise de vendas por perí
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JottaMarcos&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JottaMarcos&theme=dark" alt="Languages" />
 
 </div>
 ---
