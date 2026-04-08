@@ -22,7 +22,7 @@ joao_marcos = {
     "stack":     ["Power BI", "Python", "SQL", "Pandas", "Jupyter"],
     "mindset":   "Dados → Insights → Impacto real no negócio",
     "objetivo":  "Analista de Dados / BI Developer",
-    "localização": "Brasil 🇧🇷"
+    "localização": "Rio de Janeiro - BR"
 }
 ```
 
