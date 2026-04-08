@@ -69,18 +69,6 @@ Dashboard executivo para operações de telecomunicações com geração de data
 
 ---
 
-### 🏋️ [Gym Analytics — Retenção e Faturamento](https://github.com/JottaMarcos/gym-data-analytics-dashboard)
-> **Python · Power BI**
-
-Projeto end-to-end para otimizar faturamento e reduzir evasão de alunos em academia. Segmentação de perfis com Python e visualização estratégica em Power BI.
-
-- Clusterização de perfis de alunos
-- Identificação de padrões de cancelamento
-
----
-
----
-
 ### 🛒 [Sistema Jotta — BI e Engenharia de Dados E-commerce](https://github.com/JottaMarcos/projeto-ecommerce-python)
 > **Python · PostgreSQL · Supabase · Power BI**
 
