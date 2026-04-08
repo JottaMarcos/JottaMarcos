@@ -7,7 +7,7 @@
 Transformo dados brutos em decisões estratégicas.<br/>
 Especialista em Business Intelligence com foco em análise financeira, operacional e comportamental.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-marcos-analytics)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-marcos-analytics)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JottaMarcos)
 
 </div>
@@ -88,8 +88,6 @@ Dashboard de performance comercial e financeira com análise de vendas por perí
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
-
 <div align="center">
 
 ![João Marcos GitHub Stats](https://github-readme-stats.vercel.app/api?username=JottaMarcos&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117)
@@ -104,7 +102,7 @@ Dashboard de performance comercial e financeira com análise de vendas por perí
 
 Se você tem um problema de dados que precisa virar decisão, me chama.
 
-[![LinkedIn](https://img.shields.io/badge/Me%20chama%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-marcos-analytics)
+[![LinkedIn](https://img.shields.io/badge/Me%20chama%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-marcos-analytics)
 
 ---
 
